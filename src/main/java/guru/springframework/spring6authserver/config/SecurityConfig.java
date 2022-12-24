@@ -1,4 +1,4 @@
-package config;
+package guru.springframework.spring6authserver.config;
 
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;
