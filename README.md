@@ -1,4 +1,5 @@
 # spring-6-auth-server
+
 Spring 6 Authentication Server
 
 This repository contains code examples for my course Spring Framework 6: Beginner to Guru.
